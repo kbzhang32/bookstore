@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+  <book>
+    <title>Introduction to XML</title>
+    <author>Jane Doe</author>
+    <year>2025</year>
+    <price>19.99</price>
+  </book>
+  <book>
+    <title>Advanced XML Techniques</title>
+    <author>John Smith</author>
+    <year>2024</year>
+    <price>29.99</price>
+  </book>
+</bookstore>
+
